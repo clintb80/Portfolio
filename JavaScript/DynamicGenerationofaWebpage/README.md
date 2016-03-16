@@ -1,4 +1,4 @@
-### Login Script Drill
+### Dynamic Generation of a Webpage
 ***
 
 Write about objective, tools, steps taken and results
