@@ -1,0 +1,58 @@
+<html>
+
+	<body>
+
+		<script type="text/javascript">
+
+			confirm(" Click Ok if you are ready to play!")
+
+			var age = prompt("What's your age?");
+
+			if(age < 13)
+			{
+				document.write("Allowed to play but we take no responsibility");   
+			}
+			else
+			{
+				document.write("PLAY ON!")
+			}
+
+			document.write("<br><br>");
+			
+			document.write("You are at the Moda Center, and you see Lillard coming onto the court.'");
+			
+			document.write("<br><br>");
+			
+			document.write("Suddenly, Lillard stops and says, 'Want to play one on one?'");
+			
+			document.write("<br><br>");
+
+			var userAnswer = prompt("Do you want to play one on one with Lillard?")
+
+			if(userAnswer === "yes")
+			{
+				document.write("You and Lillard start playing one on one. You shoot the ball and make a 3 pointer");    
+			}
+			else
+			{
+				document.write("Lillard makes a slam dunk and walks towards the locker room. Maybe next time kid..")    
+			}
+
+			document.write("<br><br>");
+			
+			var feedback = prompt("Keep playing?")
+
+			if(userAnswer === "yes")
+			{
+				document.write("You should try out for the Blazers! You're going down.. Lillard winks. ");   
+			}
+			else
+			{
+				document.write("Quit while you are ahead")   
+			}
+
+		</script>
+
+	</body>
+
+</html>
