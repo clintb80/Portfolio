@@ -1,4 +1,4 @@
-### Dialog Box
+### Simple 1 player Game
 ***
 
 Write about objective, tools, steps taken and results
