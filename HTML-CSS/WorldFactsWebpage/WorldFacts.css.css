@@ -1,0 +1,39 @@
+body {
+	background: url("galaxy.jpg");
+	background-size: cover;
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+ul{
+	color: yellow;
+}
+
+ol {
+	color: yellow;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+td{
+	color: yellow;
+}
+
+th, td {
+    padding: 0px 0px 10px 15px;
+}
+th, td {
+    text-align: center;
+}
